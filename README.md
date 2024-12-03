@@ -1,5 +1,7 @@
 # Conference Expense Planner
 
+This script is realized as practice project for the IBM course "Developing Front-End Apps with React".
+
 A dynamic application designed to simplify the planning and calculation of conference expenses. This project leverages React components, Redux Toolkit, and modern JavaScript to manage states and display cost details in real time. 
 
 ## Features
